@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\markn\source\repos\3Dengine\3Dengine\main.cpp(44,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\markn\source\repos\3Dengine\3Dengine\main.cpp(45,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\markn\source\repos\3Dengine\3Dengine\main.cpp(49,19): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\markn\source\repos\3Dengine\3Dengine\main.cpp(50,19): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\markn\source\repos\3Dengine\3Dengine\main.cpp(51,13): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\markn\source\repos\3Dengine\3Dengine\main.cpp(52,13): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\markn\source\repos\3Dengine\3Dengine\main.cpp(58,31): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+LINK : warning LNK4098: библиотека по умолчанию "MSVCRT" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
+  3Dengine.vcxproj -> C:\Users\markn\source\repos\3Dengine\x64\Debug\3Dengine.exe
